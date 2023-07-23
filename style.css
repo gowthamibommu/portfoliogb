@@ -1,0 +1,38 @@
+
+  
+ 
+ 
+.card {
+    cursor: pointer;
+  }
+  
+  .card:hover {
+    background-color: palevioletred;
+    border: 2px solid yellowgreen;
+  }
+  
+  .bIcon {
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+  }
+  
+  .img-fluid:hover {
+    border: 2px solid yellowgreen;
+  }
+  
+  .card-img-top {
+    height: 50vh;
+  }
+  
+  hr {
+    border-style: dotted;
+    border-width: 6px;
+    width: 4%;
+    border-top: 0;
+    border-color: #00f7ff;
+    text-align: center;
+  }
+  .para{
+    font-size: 18px;
+  }
